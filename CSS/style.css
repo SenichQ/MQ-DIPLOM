@@ -224,7 +224,8 @@ z-index: 55;
     top: 50%;
     left: 55%;
     margin-right: -50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+    font-family: "OpenSans-Bold";
 
 }
 
@@ -272,7 +273,7 @@ width: 47%;
 
 .ATHLETS-H1{
 color: #e7e7e7;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 4rem;
 font-weight: 700;
 line-height: 60px;

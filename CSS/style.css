@@ -11,7 +11,7 @@ font-size: 20px;
 }
 
 body {
-    font-family: "OpenSans";
+    font-family: "OpenSans-Bold";
   
       margin: 0;
   border: 0;
@@ -24,17 +24,17 @@ body {
 
 @font-face {
     font-family: "OpenSans-Regular";
-    src: url("/FONTS/OpenSans-Regular.ttf");
-    src: url("//FONTS/OpenSans-Regular.woff") format("woff"),
-    url("/FONTS/OpenSans-Regular.woff2") format("woff2");
+    src: url(../FONTS/OpenSans-Regular.ttf);
+    src: url("../FONTS/OpenSans-Regular.woff") format("woff"),
+    url("../FONTS/OpenSans-Regular.woff2") format("woff2");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "OpenSans-Bold";
-    src: url("/FONTS/OpenSans-Bold.ttf");
-    src: url("//FONTS/OpenSans-Bold.woff") format("woff"),
-    url("/FONTS/OpenSans-Bold.woff2") format("woff2");
+    src: url(../FONTS/OpenSans-Bold.ttf);
+    src: url("../FONTS/OpenSans-Bold.woff") format("woff"),
+    url("../FONTS/OpenSans-Bold.woff2") format("woff2");
     font-style: normal;
     font-weight: normal;
 
@@ -361,7 +361,7 @@ right: 2S%;
 font-weight: bold;
 color: #000000;
 font-family: "OpenSans-Bold";
-font-size: 1rem;
+font-size: 0.8rem;
 letter-spacing: 1px;
 }
 
@@ -429,7 +429,7 @@ bottom: 5%;
 font-weight: bold;
 color: white;
 font-family: "OpenSans-Bold";
-font-size: 1rem;
+font-size: 0.9rem;
 letter-spacing: 1px;
 color: #dcd6ee
 }
@@ -673,7 +673,7 @@ width: 384px;
 height: 60px;
 opacity: 0.4;
 color: #c1c1c1;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 4rem;
 font-weight: 700;
 line-height: 60px;
@@ -688,8 +688,8 @@ text-transform: uppercase;
 width: 618px;
 height: 54px;
 color: #000000;
-font-family: "Open Sans";
-font-size: 1,2rem;
+font-family: "OpenSans-Bold";
+font-size: 1rem;
 font-weight: 400;
 line-height: 28px;
 letter-spacing: 1.2px;
@@ -703,7 +703,7 @@ width: 586px;
 height: 60px;
 opacity: 0.4;
 color: #c1c1c1;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size:4rem;
 font-weight: 700;
 line-height: 90px;
@@ -720,7 +720,7 @@ width: 586px;
 height: 60px;
 opacity: 0.4;
 color: #c1c1c1;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size:4rem;
 font-weight: 700;
 line-height: 90px;
@@ -736,7 +736,7 @@ top: 25%;
 .Find-contact-TEXT {
 
 color: #000000;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 1,2rem;
 font-weight: 400;
 line-height: 28px;
@@ -751,7 +751,7 @@ left: 15%;
 .Enjoy-contact-TEXT{
 
 color: #000000;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 1,2rem;
 font-weight: 400;
 line-height: 28px;
@@ -891,7 +891,7 @@ background: #5e42b0;
 
 .footer-text{
 color: #ffffff;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 4rem;
 font-weight: 700;
 line-height: 60px;
@@ -918,7 +918,7 @@ z-index: 4;
 .footer-text-h3{
 
 color: #a496ca;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 1,4rem;
 font-weight: 400;
 line-height: 34.49px;
@@ -968,7 +968,10 @@ width: 768px;
 html,body{
 height: 2800px;
 }
+.content-ATHLETS-TEXT {
+    font-size: 0.7rem;
 
+}
 .page {
     background-image: url("../IMAGES/football_1280.jpg");
     background-size: 200%;
@@ -1537,7 +1540,7 @@ top: 10%;
 
 .ATHLETS-H1{
 color: #e7e7e7;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 2.5rem;
 font-weight: 700;
 line-height: 60px;
@@ -1648,7 +1651,7 @@ height: 25%;
 
 .PLAYERS-H1{
 color: #e7e7e7;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 2.5rem;
     margin-top:10%;
 }
@@ -1659,7 +1662,7 @@ font-size: 2.5rem;
 font-weight: bold;
 color: #000000;
 font-family: "OpenSans-Bold";
-font-size: 0.8rem;
+font-size: 0.7rem;
 letter-spacing: 1px;
 }
 
@@ -1851,7 +1854,7 @@ font-size:28px;
 .Find-contact-TEXT {
 
 color: #000000;
-font-family: "Open Sans";
+font-family: "OpenSans-Bold";
 font-size: 16px;
 font-weight: 400;
 line-height: 28px;
@@ -1889,7 +1892,7 @@ font-size: 2rem;
     top: -8%;
 }
 .Enjoy-contact-TEXT{
-font-size: 16px;
+font-size: 0.7rem;
 width:95%;
 line-height: ;
 left: 5%;
